@@ -29,7 +29,7 @@ python3 cookies.py
 ```
 
 ## ScreenShot =>
-<img src="https://https://https://i.postimg.cc/q7rnzxRT/o.png" alt="Screenshot0">
+<img src="https://i.postimg.cc/q7rnzxRT/o.png" alt="Screenshot">
 
 <br><br>
 # Visitors:
