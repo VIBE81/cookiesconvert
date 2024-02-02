@@ -23,6 +23,12 @@ git clone https://github.com/VIBE81/cookiesconvert
 
 cd cookiesconvert
 ```
+( Choose Your Python Version )
+
+[+] For Python2:
+``` shell script
+python2 cookies.py
+```
 [+] For Python3:
 ``` shell script
 python3 cookies.py
