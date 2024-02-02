@@ -15,6 +15,7 @@ You can install the required libraries using pip:
 ```bash
 pip install beautifulsoup4
 pip install requests
+```
 
 ## Installation Commands :
 ``` shell script
