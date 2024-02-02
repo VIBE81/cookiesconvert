@@ -1,6 +1,6 @@
 # Facebook Login Script
 
-This script automates the login process for Facebook using Python and generate cookies json cookies both.
+This script automates the login process for Facebook using Python and generate cookies , json cookies both.
 
 ## Prerequisites
 
